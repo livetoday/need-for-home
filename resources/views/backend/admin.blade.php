@@ -31,7 +31,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/backend/">Начало</a></li>
                     <li><a href="/backend/pages/list">Страници</a></li>
-                    <li><a href="/">Любимци</a></li>
+                    <li><a href="/backend/pets">Любимци</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">

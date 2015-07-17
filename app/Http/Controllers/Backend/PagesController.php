@@ -4,6 +4,8 @@ use Laravel\Lumen\Routing\Controller as BaseController;
 
 class PagesController extends BaseController
 {
+
+
     
     public function getList() 
     {
